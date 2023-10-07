@@ -31,8 +31,18 @@ Start Project
 
 ```
 php artisan serve
+```
+```
 npm run dev (optional)
+```
+```
 php artisan horizon
+```
+
+This project uses Redis please make sure the Redis is installed on your machine.
+
+```
+https://redis.io/docs/getting-started/installation/
 ```
 
 This project uses a pusher-free edition with limited daily quota usage.
